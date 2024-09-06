@@ -1,7 +1,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/CC-BY-NC-SA.svg" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/b/bd/CC-BY-NC-SA.svg" width="100" />
 
-# ZEvent-Place-DFG
-author : Brybry
+# ZEvent-Place-DFG-2024
+author : Dahleynn
+previous author : Brybry16 (https://github.com/Brybry16/)
 
 original project : reddit-place-kcorp
 by oralekin, LittleEndu, ekgame, Wieku, DeadRote
