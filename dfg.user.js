@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ZEvent Place - DFG
+// @name         ZEvent Place - DFG 2024
 // @namespace    https://github.com/DhalEynn/ZEvent-Place-DFG-2024
 // @version      0.2
 // @description  Overlay DFG pour le Place de ZEvent.
