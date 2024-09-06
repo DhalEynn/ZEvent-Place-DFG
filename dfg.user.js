@@ -17,7 +17,7 @@
 const DEBUG = true;
 
 const UPDATE_URL = GM_info.script.updateURL;
-const OVERLAY_URL = "https://raw.githubusercontent.com/DhalEynn/ZEvent-Place-DFG-2024/main/overlay_dfg.png";
+const OVERLAY_URL = "https://raw.githubusercontent.com/DhalEynn/ZEvent-Place-DFG-2024/main/overlay.png";
 const VERSION_URL = "https://raw.githubusercontent.com/DhalEynn/ZEvent-Place-DFG-2024/main/version.json";
 const REDDIT_URL = "https://place.zevent.fr/";
 
@@ -253,7 +253,7 @@ const showUpdate = (version) => {
                 const control = document.createElement("div");
                 control.style.position = "fixed";
                 control.style.left = "90px";
-                control.style.top = "16px";
+                control.style.top = "56px";
                 control.style.maxWidth = "150px";
                 control.id = "dfg-controls";
 
