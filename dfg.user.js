@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         ZEvent Place - DFG
-// @namespace    https://github.com/Brybry16/ZEvent-Place-DFG
-// @version      0.1
+// @namespace    https://github.com/DhalEynn/ZEvent-Place-DFG-2024
+// @version      0.2
 // @description  Overlay DFG pour le Place de ZEvent.
-// @author       Brybry
+// @author       DahlEynn
 // @match        https://place.zevent.fr/
-// @icon         https://raw.githubusercontent.com/Brybry16/ZEvent-Place-DFG/main/icon.jpg
+// @icon         https://raw.githubusercontent.com/DhalEynn/ZEvent-Place-DFG-2024/main/icon.jpg
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/Brybry16/ZEvent-Place-DFG/main/kcorp.user.js
-// @updateURL    https://raw.githubusercontent.com/Brybry16/ZEvent-Place-DFG/main/kcorp.user.js
-// @supportURL   https://github.com/Brybry16/ZEvent-Place-DFG/issues
+// @downloadURL  https://raw.githubusercontent.com/DhalEynn/ZEvent-Place-DFG-2024/main/kcorp.user.js
+// @updateURL    https://raw.githubusercontent.com/DhalEynn/ZEvent-Place-DFG-2024/main/kcorp.user.js
+// @supportURL   https://github.com/DhalEynn/ZEvent-Place-DFG-2024/issues
 
 // ==/UserScript==
 
@@ -17,8 +17,8 @@
 const DEBUG = true;
 
 const UPDATE_URL = GM_info.script.updateURL;
-const OVERLAY_URL = "https://raw.githubusercontent.com/Brybry16/ZEvent-Place-DFG/main/overlay.png";
-const VERSION_URL = "https://raw.githubusercontent.com/Brybry16/ZEvent-Place-DFG/main/version.json";
+const OVERLAY_URL = "https://raw.githubusercontent.com/DhalEynn/ZEvent-Place-DFG-2024/main/overlay.png";
+const VERSION_URL = "https://raw.githubusercontent.com/DhalEynn/ZEvent-Place-DFG-2024/main/version.json";
 const REDDIT_URL = "https://place.zevent.fr/";
 
 const CANVAS_WIDTH = 500;
